@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PROPVGVNDA
+- 👀 I’m interested in developing games, web apis and cloud engineering
+- 🌱 I’m currently learning ASP.NET MVC
+- 📫 How to reach me nekitshero@gmail.com
